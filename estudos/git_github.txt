@@ -6,5 +6,5 @@ https://git-scm.com/
 github:
 https://github.com/
 
-guia basico Markdown:
+guia basico sobre Markdown:
 https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
